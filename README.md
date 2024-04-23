@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @Lux-Chalmers
+- 👀 I’m interested in Active safety systems because i believe this would make driving both fun & safe...
+- 🌱 I’m currently learning embedded systems...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me sp.lakhsman@gmail.com...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...I Love drivign a lot .. I can keep driving for 1000s of Kms  my current record of driving includes the following :
+- Avg speed 100Kph
+- Longest driving distance at a strecth : 1000 Km
+- Max speed : 147 Kph
+- 
+
+<!---
+Lux-Chalmers/Lux-Chalmers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
